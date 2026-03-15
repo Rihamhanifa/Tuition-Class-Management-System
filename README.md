@@ -1,6 +1,6 @@
 # Tuition Class Management System
 
-**[🟢 Live Demo](https://your-live-link-here.com)**
+**[🟢 Live Demo](https://tuitionclass.free.nf/auth/login.php)**
 
 A modern, responsive, and easy-to-use Tuition Class Management System built with PHP, MySQL, HTML, CSS, and Vanilla JavaScript. It features a premium SaaS dashboard aesthetic, suitable for managing students, classes, attendance, and payments.
 
